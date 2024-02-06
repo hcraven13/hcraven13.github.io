@@ -9,6 +9,6 @@ Nuclear Engineering, MEng
 - Blah Blah 2
 
 ### Hobbies
-Liverpool FC Fan 
-Golfing
-Reading
+- Liverpool FC Fan 
+- Golfing
+- Reading
