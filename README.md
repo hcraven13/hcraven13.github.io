@@ -1,4 +1,4 @@
-# Computational Materials Science PhD
+# Harry Craven - Computational Materials Science PhD student @ UoB
 
 ### Education
 Materials Science, PhD
