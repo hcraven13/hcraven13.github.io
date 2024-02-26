@@ -3,15 +3,15 @@
 
 View my [Linkedin profile](https://www.linkedin.com/in/harry-craven-095059251/)
 
-### Education
+## Education
 Materials Science, PhD (ongoing) <br />
 Nuclear Engineering MEng, Class 1
 
-### Ongoing Projects
+## Ongoing Projects
 - Python Diffusion Model
 - Learning C++, GitLab and AMReX
 
-### Hobbies & Interests
+## Hobbies & Interests
 - Liverpool FC Fan
 - Computer Modelling
 - Golf
